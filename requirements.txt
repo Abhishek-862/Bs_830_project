@@ -1,0 +1,4 @@
+pandas>=1.3
+requests>=2.25
+scipy>=1.7
+python-dotenv>=0.21  # optional: load a .env file locally
