@@ -11,12 +11,11 @@ COL_MAP = {
     " ": "Age",  # The Age column is actually labeled as a space in the CSV
     "Q1": "Gender",
     "Q8": "shopping_freq",
-    "Q12_1": "limi_prod_imp",
-    "Q13_1": "cookie",
-    "Q15_1": "cup",
-    "Q17_1": "sneakers",
-    "Q21_1": "headphones",
-    "Q19_1": "perfume"
+    "Q13": "cookie",
+    "Q15": "cup",
+    "Q17": "sneakers",
+    "Q21": "headphones",
+    "Q19": "perfume"
 }
 
 def _find(path_candidates):
